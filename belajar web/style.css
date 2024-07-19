@@ -1,0 +1,28 @@
+* {
+    color: white;
+}
+
+th {
+    color: black;
+}
+
+body {
+    background: darkolivegreen;
+}
+
+h1 {
+    color: black;
+}
+
+.menu{
+    text-decoration: none;
+}
+
+.tulisan{
+    font-size: 20px;
+}
+
+#text-lightblue{
+    color: #42e9f5;
+}
+
